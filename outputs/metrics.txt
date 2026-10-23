@@ -1,0 +1,13 @@
+STUDENT ACADEMIC PERFORMANCE PREDICTION
+Dataset: UCI Student Performance - Mathematics
+Target: G3 >= 10 means PASS; otherwise AT RISK
+Model: PySpark MLlib Random Forest
+Dataset records after cleaning: 395
+Training records: 338
+Testing records: 57
+Accuracy: 0.9298
+Weighted precision: 0.9298
+Weighted recall: 0.9298
+F1 score: 0.9298
+Training time seconds: 0.9218
+Best model by test F1: Random Forest

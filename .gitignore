@@ -1,0 +1,17 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Spark and generated outputs
+outputs/student_pass_model/
+outputs/predictions/
+outputs/*.crc
+outputs/.*
+spark-warehouse/
+metastore_db/
+
+# Keep the dataset and useful result files
+# Keep screenshots for the final project report
